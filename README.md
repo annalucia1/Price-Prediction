@@ -1,4 +1,4 @@
-# Zillow Prediction
+# Zillow Price Prediction
 
 This project is based on the Kaggle competition at https://www.kaggle.com/c/zillow-prize-1. The source data is provided by Zillow.
 
